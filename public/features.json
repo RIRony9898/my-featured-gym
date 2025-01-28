@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Cardio Equipment",
+      "description": [
+        "High-quality treadmills",
+        "Elliptical machines",
+        "Stationary bikes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Weightlifting Area",
+      "description": [
+        "Free weights",
+        "Benches",
+        "Squat racks for strength training"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Group Classes",
+      "description": [
+        "Yoga sessions",
+        "Zumba workouts",
+        "HIIT sessions led by professional trainers"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Personal Training",
+      "description": [
+        "Certified trainers",
+        "One-on-one coaching",
+        "Customized workout plans"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Swimming Pool",
+      "description": [
+        "Indoor heated pool",
+        "Lap swimming",
+        "Water aerobics"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Locker Rooms",
+      "description": [
+        "Clean and spacious facilities",
+        "Showers",
+        "Saunas"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Juice Bar",
+      "description": [
+        "Variety of healthy drinks",
+        "Nutritious snacks",
+        "Workout recovery options"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "CrossFit Zone",
+      "description": [
+        "Functional training space",
+        "CrossFit equipment",
+        "High-intensity workout support"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Cycling Studio",
+      "description": [
+        "State-of-the-art cycling equipment",
+        "Spin classes",
+        "Motivational instructors"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Recovery Area",
+      "description": [
+        "Massage chairs",
+        "Foam rollers",
+        "Recovery tools for muscle relaxation"
+      ]
+    }
+  ]
+  
